@@ -1,3 +1,5 @@
+//Owen Beattie 101379668 COMP3123 lab test 1
+
 const lowerCaseWords = (arr) => {
     return new Promise((resolve, reject) => {
 

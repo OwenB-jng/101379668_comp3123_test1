@@ -1,3 +1,5 @@
+//Owen Beattie 101379668 COMP3123 lab test 1
+
 const { log } = require('console');
 const fs = require('fs');
 const path = require('path');
